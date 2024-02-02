@@ -7,7 +7,7 @@ The United States has an influenza season where more people than usual suffer fr
 ### Objective
 Determine when to send staff, and how many, to each state. 
 ### Scope
-The agency covers all hospitals in each of the 50 states of the United States, and the project will plan for the upcoming influenza season.
+The agency covers all hospitals in each of the 50 states of the United States, and the project will plan for the 2018 influenza season.
 ## Datasets overview
 * Mortality data: The Centers for Disease Control and Prevention (CDC) provides this administrative data. It contains monthly flu death counts in the US from 2009 to 2017. Counts are broken into two categories: state and age.
 * Census data: The US Census Bureau provides this survey data. It contains demographic data for states including gender and age groups in the US from 2009 to 2017.
