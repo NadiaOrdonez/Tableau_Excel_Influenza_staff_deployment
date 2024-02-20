@@ -20,7 +20,8 @@ I conducted data cleaning, consistency checks, and basic statistical analyses on
  
 ## Medical staff deployment recommendations for the 2018 flu season 
 * Deploy extra medical staff to states with more than 500 deaths per year. Prioritazing states with the highest flu mortality (more than 2000 deaths per year).
-* Inmediatly mobilize medical staff as the flu season reaches its peak at the onset of 2018, persisting until approximately April. Also, in October, it is imperative to redeploy medical staff. 
+* Inmediatly mobilize medical staff as the flu season reaches its peak at the onset of 2018, persisting until approximately April. Also, in October, it is imperative to redeploy medical staff.
+![flu season forecast2018 for main states](forecasting2018.JPG)
                                                                                                           
 ## Project timeline
 This data analysis project was completed within 10 days, using Tableau for dashboard visualization and Excel for data analysis. An [interim report](Interim_report.pdf) document was also generated.  
